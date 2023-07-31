@@ -13,3 +13,9 @@ Estimated Unemployment Rate (%) = percentage of people unemployed in each States
 Estimated Employed = percentage of people employed
 
 Estimated Labour Participation Rate (%) = labour force participation rate by dividing the number of people actively participating in the labour force by the total number of people eligible to participate in the labor force
+
+## Tools Used
+1. Python programming language
+2. Numpy and Pandas for exploratory analysis
+3. Matplotlib for data visualization
+4. Jupyter notebook as IDE
