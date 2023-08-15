@@ -2,6 +2,8 @@
 
 ## Projects
   1. Iris Flower Classification
+  2. Unemployment Analysis with Python
+  3. Email Spam Detection with Machine Learning
 
 ## Tools Used
   1. Python programming language
