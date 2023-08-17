@@ -1,4 +1,6 @@
-# Email Spam Detection
+# Project: Email Spam Detection
+
+The project focuses on conducting Email Spam Detection. It is a binary classification problem. The primary objective of this project is to classify an email into the spam or not spam.
 
 ## Tools Used
 1. Python programming language
