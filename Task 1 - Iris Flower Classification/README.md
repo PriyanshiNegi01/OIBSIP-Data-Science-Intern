@@ -1,4 +1,4 @@
-# Iris Flower Classification
+# Project: Iris Flower Classification
 
 The dataset contains samples of three different species of iris flowers: setosa, versicolor, and virginica. Each species has 50 samples, resulting in a total of 150 samples.
 
