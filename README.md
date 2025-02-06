@@ -1,6 +1,4 @@
-# OIBSIP-Data-Science-Intern_Phase-1
-
-## Projects
+# Data Science Projects
   1. Iris Flower Classification
   2. Unemployment Analysis with Python
   3. Email Spam Detection with Machine Learning
